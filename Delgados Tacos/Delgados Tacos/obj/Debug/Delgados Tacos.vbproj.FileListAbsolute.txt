@@ -1,0 +1,10 @@
+C:\Users\nn137422\Documents\Visual Basic\Delgados Tacos\Delgados Tacos\bin\Debug\Delgados Tacos.exe.config
+C:\Users\nn137422\Documents\Visual Basic\Delgados Tacos\Delgados Tacos\bin\Debug\Delgados Tacos.exe
+C:\Users\nn137422\Documents\Visual Basic\Delgados Tacos\Delgados Tacos\bin\Debug\Delgados Tacos.pdb
+C:\Users\nn137422\Documents\Visual Basic\Delgados Tacos\Delgados Tacos\bin\Debug\Delgados Tacos.xml
+C:\Users\nn137422\Documents\Visual Basic\Delgados Tacos\Delgados Tacos\obj\Debug\Delgados_Tacos.Form1.resources
+C:\Users\nn137422\Documents\Visual Basic\Delgados Tacos\Delgados Tacos\obj\Debug\Delgados_Tacos.Resources.resources
+C:\Users\nn137422\Documents\Visual Basic\Delgados Tacos\Delgados Tacos\obj\Debug\Delgados Tacos.vbproj.GenerateResource.Cache
+C:\Users\nn137422\Documents\Visual Basic\Delgados Tacos\Delgados Tacos\obj\Debug\Delgados Tacos.exe
+C:\Users\nn137422\Documents\Visual Basic\Delgados Tacos\Delgados Tacos\obj\Debug\Delgados Tacos.xml
+C:\Users\nn137422\Documents\Visual Basic\Delgados Tacos\Delgados Tacos\obj\Debug\Delgados Tacos.pdb
